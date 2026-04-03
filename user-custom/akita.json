@@ -5,13 +5,13 @@
     "location_csig": "https://github.com/mgiganto/demo_ota/releases/download/2026012800_incremental/akita-ota_update-2026012800-user-custom.zip.csig"
   },
   "incremental": {
-    "433a3dbe168f0ebde2699a10be655a814c7f627669404c116dc8bccb3283ea88": {
-      "location_ota": "https://github.com/mgiganto/demo_ota/releases/download/2026012800_incremental/akita-incremental-2026012100-2026012800-user-custom.zip",
-      "location_csig": "https://github.com/mgiganto/demo_ota/releases/download/2026012800_incremental/akita-incremental-2026012100-2026012800-user-custom.zip.csig"
-    },
     "694172dbf660a0c699b726007568a2c8fc8350b3261965ed11c4189a1dee7b22": {
       "location_ota": "https://github.com/mgiganto/demo_ota/releases/download/2026012800_incremental/akita-incremental-2026011300-2026012800-user-custom.zip",
       "location_csig": "https://github.com/mgiganto/demo_ota/releases/download/2026012800_incremental/akita-incremental-2026011300-2026012800-user-custom.zip.csig"
+    },
+    "433a3dbe168f0ebde2699a10be655a814c7f627669404c116dc8bccb3283ea88": {
+      "location_ota": "https://github.com/mgiganto/demo_ota/releases/download/2026012800_incremental/akita-incremental-2026012100-2026012800-user-custom.zip",
+      "location_csig": "https://github.com/mgiganto/demo_ota/releases/download/2026012800_incremental/akita-incremental-2026012100-2026012800-user-custom.zip.csig"
     }
   }
 }
