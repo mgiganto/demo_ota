@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "full": null,
+  "incremental": {
+    "611d4e43acd2bd5b967b3c350f59fd8de2ca7d68cd96d719121f1a7b80f65653": {
+      "location_ota": "akita-incremental-2026011300-2026012100-user-rooted.zip",
+      "location_csig": "akita-incremental-2026011300-2026012100-user-rooted.zip.csig"
+    }
+  }
+}
