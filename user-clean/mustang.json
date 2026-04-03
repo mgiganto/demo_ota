@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "full": null,
+  "incremental": {
+    "5832e2af89924c8da05a7ac158c3424366072d7c2398acfb6cf53c767a52db4a": {
+      "location_ota": "https://github.com/mgiganto/demo_ota/releases/download/2026012800_incremental/mustang-incremental-2026011300-2026012800-user-clean.zip",
+      "location_csig": "https://github.com/mgiganto/demo_ota/releases/download/2026012800_incremental/mustang-incremental-2026011300-2026012800-user-clean.zip.csig"
+    },
+    "fcb17e1165b56dca8a879219d216cbf673e98ca47555d8b872d2e210c17569dd": {
+      "location_ota": "https://github.com/mgiganto/demo_ota/releases/download/2026012800_incremental/mustang-incremental-2026012100-2026012800-user-clean.zip",
+      "location_csig": "https://github.com/mgiganto/demo_ota/releases/download/2026012800_incremental/mustang-incremental-2026012100-2026012800-user-clean.zip.csig"
+    }
+  }
+}

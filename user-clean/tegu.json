@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "full": null,
+  "incremental": {
+    "886e71c52f99584765c4f2ee4de9a8f8bcbd3590e67da66c05c5afc73dc60574": {
+      "location_ota": "https://github.com/mgiganto/demo_ota/releases/download/2026012800_incremental/tegu-incremental-2026012100-2026012800-user-clean.zip",
+      "location_csig": "https://github.com/mgiganto/demo_ota/releases/download/2026012800_incremental/tegu-incremental-2026012100-2026012800-user-clean.zip.csig"
+    },
+    "c786605666d7bfa89e8dd5304f2a3a607dfb21ea6dc0ee466154995e8c6741ae": {
+      "location_ota": "https://github.com/mgiganto/demo_ota/releases/download/2026012800_incremental/tegu-incremental-2026011300-2026012800-user-clean.zip",
+      "location_csig": "https://github.com/mgiganto/demo_ota/releases/download/2026012800_incremental/tegu-incremental-2026011300-2026012800-user-clean.zip.csig"
+    }
+  }
+}
