@@ -1,6 +1,9 @@
 {
   "version": 2,
-  "full": null,
+  "full": {
+    "location_ota": "https://github.com/mgiganto/demo_ota/releases/download/2026012800_incremental/akita-ota_update-2026012800-user-custom.zip",
+    "location_csig": "https://github.com/mgiganto/demo_ota/releases/download/2026012800_incremental/akita-ota_update-2026012800-user-custom.zip.csig"
+  },
   "incremental": {
     "433a3dbe168f0ebde2699a10be655a814c7f627669404c116dc8bccb3283ea88": {
       "location_ota": "https://github.com/mgiganto/demo_ota/releases/download/2026012800_incremental/akita-incremental-2026012100-2026012800-user-custom.zip",
