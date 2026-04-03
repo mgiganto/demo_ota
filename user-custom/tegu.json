@@ -5,13 +5,13 @@
     "location_csig": "https://github.com/mgiganto/demo_ota/releases/download/2026012800_incremental/tegu-ota_update-2026012800-user-custom.zip.csig"
   },
   "incremental": {
-    "15888f282a0a75c3af01bc0cd5b9de6c3e214716d3be65b1c36f675b62d5c51d": {
-      "location_ota": "https://github.com/mgiganto/demo_ota/releases/download/2026012800_incremental/tegu-incremental-2026012100-2026012800-user-custom.zip",
-      "location_csig": "https://github.com/mgiganto/demo_ota/releases/download/2026012800_incremental/tegu-incremental-2026012100-2026012800-user-custom.zip.csig"
-    },
     "4b97df3368fafc49b4c368b27a2485b303049ed701e3a7568f08b5abec07c042": {
       "location_ota": "https://github.com/mgiganto/demo_ota/releases/download/2026012800_incremental/tegu-incremental-2026011300-2026012800-user-custom.zip",
       "location_csig": "https://github.com/mgiganto/demo_ota/releases/download/2026012800_incremental/tegu-incremental-2026011300-2026012800-user-custom.zip.csig"
+    },
+    "15888f282a0a75c3af01bc0cd5b9de6c3e214716d3be65b1c36f675b62d5c51d": {
+      "location_ota": "https://github.com/mgiganto/demo_ota/releases/download/2026012800_incremental/tegu-incremental-2026012100-2026012800-user-custom.zip",
+      "location_csig": "https://github.com/mgiganto/demo_ota/releases/download/2026012800_incremental/tegu-incremental-2026012100-2026012800-user-custom.zip.csig"
     }
   }
 }
