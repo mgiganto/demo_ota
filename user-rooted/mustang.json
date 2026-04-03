@@ -5,13 +5,13 @@
     "location_csig": "https://github.com/mgiganto/demo_ota/releases/download/2026012800_incremental/mustang-ota_update-2026012800-user-rooted.zip.csig"
   },
   "incremental": {
-    "7f63d35b0fab4556378525ba39df4a8e2376881f1e7233e68afc911f1f9b64a4": {
-      "location_ota": "https://github.com/mgiganto/demo_ota/releases/download/2026012800_incremental/mustang-incremental-2026012100-2026012800-user-rooted.zip",
-      "location_csig": "https://github.com/mgiganto/demo_ota/releases/download/2026012800_incremental/mustang-incremental-2026012100-2026012800-user-rooted.zip.csig"
-    },
     "c4ca92ba5b280c2b0e30ced195eb36bf53212d087dc56e37ed430c363be0a5a0": {
       "location_ota": "https://github.com/mgiganto/demo_ota/releases/download/2026012800_incremental/mustang-incremental-2026011300-2026012800-user-rooted.zip",
       "location_csig": "https://github.com/mgiganto/demo_ota/releases/download/2026012800_incremental/mustang-incremental-2026011300-2026012800-user-rooted.zip.csig"
+    },
+    "7f63d35b0fab4556378525ba39df4a8e2376881f1e7233e68afc911f1f9b64a4": {
+      "location_ota": "https://github.com/mgiganto/demo_ota/releases/download/2026012800_incremental/mustang-incremental-2026012100-2026012800-user-rooted.zip",
+      "location_csig": "https://github.com/mgiganto/demo_ota/releases/download/2026012800_incremental/mustang-incremental-2026012100-2026012800-user-rooted.zip.csig"
     }
   }
 }
